@@ -1,0 +1,81 @@
+{
+  "name": "ETHAN MORENO",
+  "contact_lines": [
+    "Sant Feliu de Llobregat, Barcelona | +34 625 92 07 75 | ethan.moreno.dev@gmail.com",
+    "github.com/ethanmorenodev | ethanmorenodev.github.io/portfolio | ethanmorenogomez.netlify.app"
+  ],
+  "titles": {
+    "soporte": "Técnico informático junior | Soporte IT y sistemas",
+    "frontend": "Técnico informático junior | Desarrollo web",
+    "dotnet": "Técnico informático junior | C# / .NET",
+    "general": "Técnico informático junior | Sistemas, desarrollo web e IA aplicada"
+  },
+  "profiles": {
+    "soporte": "Técnico informático junior en formación (CFGM Sistemas Microinformáticos y Redes). Práctica en instalación y configuración de Windows y Linux, virtualización y diagnóstico de incidencias, además de desarrollo web con HTML, CSS y JavaScript. Busco una primera incorporación en soporte IT o sistemas en Barcelona.",
+    "frontend": "Técnico informático junior en formación (CFGM Sistemas Microinformáticos y Redes). Desarrollo webs con HTML, CSS y JavaScript, con diseño adaptable y gestión básica de hosting y dominios. He participado en ProjectVTT, proyecto documentado con React 19 y TypeScript. Busco una primera incorporación en desarrollo web en Barcelona.",
+    "dotnet": "Técnico informático junior en formación (CFGM Sistemas Microinformáticos y Redes). Fundamentos de C# certificados por freeCodeCamp y Microsoft (19/11/2026) y proyecto propio con stack .NET/ASP.NET Core documentado. Busco una primera incorporación en desarrollo .NET junior en Barcelona.",
+    "general": "Técnico informático junior en formación (CFGM Sistemas Microinformáticos y Redes). Certificado Foundational C# with Microsoft (19/11/2026; verificación: https://freecodecamp.org/certification/ethanmorenogomez/foundational-c-sharp-with-microsoft) e Iniciación al Desarrollo con IA (02/10/2026). Práctica en sistemas Windows y Linux, virtualización y desarrollo web con HTML, CSS y JavaScript; portfolio público: https://ethanmorenodev.github.io/portfolio/. Busco una primera incorporación en Barcelona."
+  },
+  "skills": {
+    "sistemas": "Sistemas: Windows, Linux, máquinas virtuales, instalación y configuración, mantenimiento de equipos, diagnóstico de incidencias.",
+    "web": "Web: HTML, CSS, JavaScript, diseño responsive, hosting y dominios, Git, VS Code.",
+    "programacion": "Programación: Python y C# (fundamentos); C# certificado con Foundational C# with Microsoft.",
+    "ia": "IA aplicada: OpenCode, Gemini, agentes y flujos de trabajo asistidos (planificación, implementación, pruebas y documentación).",
+    "stack": "Stack documentado de ProjectVTT: React 19, TypeScript, PixiJS 8, ASP.NET Core 10, EF Core, SignalR, Godot 4.7.2/C#."
+  },
+  "experience": [
+    {
+      "label": "Desarrollo web · Proyectos propios | 2026",
+      "text": "Creación y publicación de sitios con HTML, CSS y JavaScript, diseño adaptable y gestión básica de hosting y dominios. Proyectos personales y de aprendizaje."
+    },
+    {
+      "label": "Gremio Fuego y Acero · Colaboración digital",
+      "text": "Apoyo en la web mediante IONOS, publicación de contenidos y elaboración de catálogos con Canva."
+    }
+  ],
+  "projects": [
+    {
+      "label": "ProjectVTT | Mesa virtual para juegos de rol · 2026",
+      "text": "Proyecto propio con arquitectura modular, interfaz web, funciones en tiempo real y pruebas automatizadas. Coordiné el desarrollo asistido por agentes de IA y verifiqué personalmente los cambios. Stack documentado: React 19, TypeScript, PixiJS 8, ASP.NET Core 10, EF Core, SignalR y Godot 4.7.2/C#. La documentación registra 230 pruebas backend, 79 web y 1 smoke test de escritorio; no se reejecutaron para este CV."
+    },
+    {
+      "label": "Laboratorio personal de sistemas",
+      "text": "Instalación y configuración de Windows y Linux, creación de máquinas virtuales y pruebas de software en distintos dispositivos."
+    }
+  ],
+  "education": [
+    "CFGM Sistemas Microinformáticos y Redes — Institut Obert de Catalunya (IOC) | En curso"
+  ],
+  "certifications": [
+    "Foundational C# with Microsoft — Developer Certification. freeCodeCamp + Microsoft, 19/11/2026. Verificación: https://freecodecamp.org/certification/ethanmorenogomez/foundational-c-sharp-with-microsoft",
+    "Iniciación al Desarrollo con IA — certificado de asistencia. Mouredev / BIG school, 4 horas, 02/10/2026."
+  ],
+  "languages": "Español y catalán: nativos. Inglés: B1 aproximado (autoevaluado, sin certificado); buena comprensión, expresión oral en desarrollo.",
+  "footer": "Disponible para prácticas y puestos junior en Barcelona.",
+  "variants": {
+    "soporte": {
+      "output": "CV_Ethan_Moreno_Soporte_IT.pdf",
+      "title_key": "soporte",
+      "profile_key": "soporte",
+      "skills_order": ["sistemas", "web", "programacion", "ia", "stack"]
+    },
+    "frontend": {
+      "output": "CV_Ethan_Moreno_Frontend.pdf",
+      "title_key": "frontend",
+      "profile_key": "frontend",
+      "skills_order": ["web", "stack", "ia", "programacion", "sistemas"]
+    },
+    "dotnet": {
+      "output": "CV_Ethan_Moreno_DotNet.pdf",
+      "title_key": "dotnet",
+      "profile_key": "dotnet",
+      "skills_order": ["programacion", "stack", "ia", "web", "sistemas"]
+    },
+    "general": {
+      "output": "CV_Ethan_Moreno_General.pdf",
+      "title_key": "general",
+      "profile_key": "general",
+      "skills_order": ["sistemas", "web", "programacion", "ia", "stack"]
+    }
+  }
+}
