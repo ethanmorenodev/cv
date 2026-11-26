@@ -29,7 +29,7 @@ El script escribe los PDF en la carpeta `source/`. Cópialos a la raíz de este 
 ## Notas
 
 - Las cifras de pruebas de ProjectVTT se presentan como documentadas en una ficha técnica del 10/11/2026; no se reejecutaron.
-- El código de ProjectVTT no se publica; su documentación está en https://github.com/ethanmorenodev/projectvtt-docs.
+- El código de ProjectVTT está publicado en https://github.com/ethanmorenodev/projectvtt (MIT); su documentación está en https://github.com/ethanmorenodev/projectvtt-docs.
 - No se incluyen credenciales ni datos de candidaturas.
 
 ## Licencia

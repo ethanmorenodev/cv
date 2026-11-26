@@ -36,7 +36,7 @@
   "projects": [
     {
       "label": "ProjectVTT | Mesa virtual para juegos de rol · 2026",
-      "text": "Proyecto propio con arquitectura modular, interfaz web, funciones en tiempo real y pruebas automatizadas. Coordiné el desarrollo asistido por agentes de IA y verifiqué personalmente los cambios. Stack documentado: React 19, TypeScript, PixiJS 8, ASP.NET Core 10, EF Core, SignalR y Godot 4.7.2/C#. La documentación registra 230 pruebas backend, 79 web y 1 smoke test de escritorio; no se reejecutaron para este CV."
+      "text": "Proyecto propio con arquitectura modular, interfaz web, funciones en tiempo real y pruebas automatizadas. Coordiné el desarrollo asistido por agentes de IA y verifiqué personalmente los cambios. Stack: React 19, TypeScript, PixiJS 8, ASP.NET Core 10, EF Core, SignalR y Godot 4.7.2/C#. Código público en github.com/ethanmorenodev/projectvtt (MIT). El proyecto registra 61 pruebas unitarias, 293 de integración, 14 E2E y 5 de rendimiento en backend, 262 web y 1 smoke test de escritorio."
     },
     {
       "label": "Laboratorio personal de sistemas",
